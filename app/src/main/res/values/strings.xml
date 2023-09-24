@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BD_Player_App</string>
+    <string name="sakib_al_hasan">Sakib-Al Hasan</string>
+    <string name="all_rounder">All-rounder</string>
+    <string name="player1">Name: Shakib Al Hasan
+Position: All-rounder
+Batting order: 3
+Salary: $1 million
+Tournament team: Kolkata Knight Riders
+Category: A
+
+NB:
+The salaries are based on the Bangladesh Cricket Board\'s (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
+
+The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
+    <string name="todo">TODO</string>
+</resources>
