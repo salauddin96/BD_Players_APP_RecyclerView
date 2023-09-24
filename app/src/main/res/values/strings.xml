@@ -2,16 +2,139 @@
     <string name="app_name">BD_Player_App</string>
     <string name="sakib_al_hasan">Sakib-Al Hasan</string>
     <string name="all_rounder">All-rounder</string>
-    <string name="player1">Name: Shakib Al Hasan
-Position: All-rounder
-Batting order: 3
-Salary: $1 million
-Tournament team: Kolkata Knight Riders
-Category: A
+    <string name="player1">Name: Shakib Al Hasan\n
+Position: All-rounder\n
+Batting order: 3\n
+Salary: $1 million\n
+Tournament team: Kolkata Knight Riders\n
+Category: A\n
 
-NB:
+NB:\n
 The salaries are based on the Bangladesh Cricket Board\'s (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
 
 The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
     <string name="todo">TODO</string>
+
+    <string name="player2">Name: Nazmul Hasan Shanto\n
+    Position: batsman\n
+    Batting order: 13\n
+    Salary: $50,000\n
+    Tournament team: Chattogram Challengers\n
+    Category: C\n
+
+    NB:\n
+    The salaries are based on the Bangladesh Cricket Board's (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
+
+    The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
+
+    <string name="player3">Name: Mashrafe Mortoza\n
+    Position: Bowler\n
+    Batting order: 4\n
+    Salary: $800,000\n
+    Tournament team: Rajshahi Kings\n
+    Category: A\n
+
+    NB:\n
+    The salaries are based on the Bangladesh Cricket Board's (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
+
+    The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
+
+    <string name="player4">Name: Mushfiqur Rahim\n
+    Position: Wicket-keeper batsman\n
+    Batting order: 5\n
+    Salary: $700,000\n
+    Tournament team: Dhaka Dynamites\n
+    Category: A\n
+
+    NB:\n
+    The salaries are based on the Bangladesh Cricket Board's (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
+
+    The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
+
+    <string name="player5">Name: Tamim Iqbal\n
+    Position: Batsman\n
+    Batting order: 7\n
+    Salary: $500,000\n
+    Tournament team: Rangpur Riders\n
+    Category: A\n
+
+    NB:\n
+    The salaries are based on the Bangladesh Cricket Board's (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
+
+    The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
+
+    <string name="player6">Name: Mohammad Saifuddin\n
+    Position: Bowler\n
+    Batting order: 9\n
+    Salary: $300,000\n
+    Tournament team: Chattogram Challengers\n
+    Category: B\n
+
+    NB:\n
+    The salaries are based on the Bangladesh Cricket Board's (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
+
+    The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
+
+    <string name="player7">Name: Mustafizur Rahman\n
+    Position: Bowler\n
+    Batting order: 10\n
+    Salary: $200,000\n
+    Tournament team: Sylhet Sixers\n
+    Category: B\n
+
+    NB:\n
+    The salaries are based on the Bangladesh Cricket Board's (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
+
+    The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
+
+    <string name="player8">Name: Mehidy Hasan Miraz	\n
+    Position: All-rounder\n
+    Batting order: 11\n
+    Salary: $700,000\n
+    Tournament team: Khulna Tigers\n
+    Category: C\n
+
+    NB:\n
+    The salaries are based on the Bangladesh Cricket Board's (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
+
+    The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
+
+    <string name="player9">Name: Naim Sheikh\n
+    Position: Batsman\n
+    Batting order: 12\n
+    Salary: $50,000\n
+    Tournament team: Khulna Tigers\n
+    Category: C\n
+
+    NB:\n
+    The salaries are based on the Bangladesh Cricket Board's (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
+
+    The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
+
+    <string name="player10">Name: Liton Das\n
+    Position: Wicket-keeper batsman\n
+    Batting order: 8\n
+    Salary: $400,000\n
+    Tournament team: Fortune Barishal\n
+    Category: B\n
+
+    NB:\n
+    The salaries are based on the Bangladesh Cricket Board's (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
+
+    The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
+
+    <string name="player11">Name: Mahmudullah Riyad\n
+    Position: All-rounder\n
+    Batting order: 6\n
+    Salary: $600,000\n
+    Tournament team: Comilla Victorians\n
+    Category: A\n
+
+    NB:\n
+    The salaries are based on the Bangladesh Cricket Board's (BCB) central contract system. The players are divided into three categories: A, B, and C. The A category players are the highest paid, followed by the B category players, and then the C category players.
+
+    The tournament teams are the teams that the players play for in the Bangladesh Premier League (BPL). The BPL is a professional Twenty20 cricket league that was founded in 2012. The league currently consists of seven teams: Chattogram Challengers, Comilla Victorians, Dhaka Dynamites, Fortune Barishal, Khulna Tigers, Rajshahi Kings, and Sylhet Sixers.</string>
+
+
+
 </resources>

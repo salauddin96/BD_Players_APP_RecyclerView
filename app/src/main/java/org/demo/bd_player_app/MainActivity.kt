@@ -16,7 +16,17 @@ class MainActivity : AppCompatActivity() {
 
         binding.bdApp.layoutManager = LinearLayoutManager(this)
         val appList = listOf<AppModel>(
-            AppModel("Sakib-Al Hasan", resources.getString(R.string.player1), R.drawable.sakib)
+            AppModel("Sakib-Al Hasan", resources.getString(R.string.player1), R.drawable.sakib),
+            AppModel("Mashrafe Mortoza", resources.getString(R.string.player3), R.drawable.mashrafe),
+            AppModel("Nazmul Hasan Shanto", resources.getString(R.string.player2), R.drawable.shanto),
+            AppModel("Tamim Iqbal", resources.getString(R.string.player5), R.drawable.tamim),
+            AppModel("Mohammad Saifuddin", resources.getString(R.string.player6), R.drawable.saifuddin),
+            AppModel("Mehedi Hasan Miraz", resources.getString(R.string.player8), R.drawable.miraz),
+            AppModel("Naim Sheikh", resources.getString(R.string.player9), R.drawable.naim),
+            AppModel("Liton Das", resources.getString(R.string.player10), R.drawable.liton),
+            AppModel("Musfiqur Rahim", resources.getString(R.string.player4), R.drawable.musfiqur),
+            AppModel("Mahmudullah Riyad", resources.getString(R.string.player11), R.drawable.mahmudullah),
+            AppModel("Mustafizur Rahman", resources.getString(R.string.player7), R.drawable.mustafizur)
         )
 
         binding.bdApp.adapter = AppAdapter(appList,){
